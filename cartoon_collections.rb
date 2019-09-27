@@ -1,4 +1,5 @@
 def roll_call_dwarves(dwarves)
+  i = 0 
   each_dwarf = each_with_index(*dwarves)
   puts each_dwarf
 end
