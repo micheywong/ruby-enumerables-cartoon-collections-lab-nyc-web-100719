@@ -1,5 +1,6 @@
 def roll_call_dwarves(dwarves)
   each_dwarf = each_with_index(*dwarves)
+  puts each_dwarf
 end
 
 def summon_captain_planet# code an argument here
