@@ -1,4 +1,4 @@
-def roll_call_dwarves(dwarfs)
+def roll_call_dwarves
   
 end
 
